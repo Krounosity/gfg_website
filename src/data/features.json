@@ -1,0 +1,14 @@
+[
+    {"title":"Game Mechanics",
+     "content":"Master physics, collision detection, AI, and game loops."},
+
+    {"title":"Visual Effects",
+     "content":"Create 2D/3D graphics and animations."},
+    
+    {"title":"Game Balancing",
+     "content":"Balance difficulty and progression."},
+    
+    {"title":"Cross-Platform Dev",
+     "content":"Deploy games on PC, web, and mobile."}
+
+]

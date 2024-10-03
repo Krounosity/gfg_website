@@ -1,0 +1,16 @@
+[
+    {
+        "title" : "Resources",
+        "rows" : ["Brand" , "FAQ", "Help & Support", "Governance"]
+    },
+
+    {
+        "title" : "Developers",
+        "rows" : ["Technical Paper" , "Security", "Game Design"]
+    },
+
+    {
+        "title" : "Company",
+        "rows" : ["Privacy Policy", "Terms of Use", "Contact"]
+    }
+]
