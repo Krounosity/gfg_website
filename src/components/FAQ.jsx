@@ -1,6 +1,7 @@
 import React from "react";
 import "../styles/faq.sass";
 import faqData from "../data/faq.json";
+import FAQuestion from "../components/faqQuestion.jsx";
 
 function FAQ(){
     return(
@@ -8,7 +9,7 @@ function FAQ(){
             <h2>FAQs</h2>
             <div className="faqs">
                 {faqData.map(data => (
-                    <faqQuestion question = {faqData.question} answer = {faqData.answer}></faqQuestion>
+                    <FAQuestion question = {faqData.question} answer = {faqData.answer}></FAQuestion>
                 ))}
                 <p>See More →</p>
             </div>

@@ -1,6 +1,6 @@
 import React from "react";
 
-function Question({question, answer}){
+function Question(props){
     return(
         <div className="faq-question">
             <h3>{props.question}</h3>
@@ -10,3 +10,5 @@ function Question({question, answer}){
         </div>
     );
 }
+
+export default Question;
