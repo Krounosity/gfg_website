@@ -1,0 +1,21 @@
+[
+    {
+        "question": "What is PyHack?",
+        "answer" : "Lorem ipsum odor amet, consectetuer adipiscing elit. Aptent aptent senectus velit fringilla lobortis dictumst ornare mattis dignissim. Mauris primis pretium accumsan dignissim vel placerat tempor rhoncus. Sociosqu vel hac ipsum ad aliquet placerat eleifend penatibus."
+    },
+    
+    {
+        "question": "Where will the workshops be held?",
+        "answer" : "Torquent ad quis efficitur erat laoreet; curae auctor aenean. Nibh ipsum sit maximus natoque nulla. Euismod fames efficitur nunc rutrum ultricies porta. Nulla purus sed justo ut dictum viverra."
+    },
+
+    {
+        "question": "What will I learn at PyHack?",
+        "answer" : "Dis a dui condimentum dapibus rutrum. Id lacinia velit hac justo ac nascetur curae. Sociosqu nostra ut torquent; habitasse efficitur at blandit est. Natoque maecenas egestas parturient risus aptent fringilla dictum mus."
+    },
+
+    {
+        "question": "Do I need prior Python experience?",
+        "answer" : "Bibendum nostra ullamcorper id tristique natoque hendrerit; hendrerit netus. Dapibus adipiscing habitant porttitor nunc, elementum vehicula. Habitasse iaculis adipiscing neque libero sociosqu potenti."
+    }
+]
