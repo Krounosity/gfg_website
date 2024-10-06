@@ -9,9 +9,9 @@ function FAQ(){
             <h2>FAQs</h2>
             <div className="faqs">
                 {faqData.map(data => (
-                    <FAQuestion question = {faqData.question} answer = {faqData.answer}></FAQuestion>
+                    <FAQuestion question = {data.question} answer = {data.answer}></FAQuestion>
                 ))}
-                <p>See More →</p>
+                <p style={{color: "#008AFF", textDecoration: "underline", textUnderlineOffset: "10px"}}>See More →</p>
             </div>
         </div>
     );

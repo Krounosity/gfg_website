@@ -3,7 +3,7 @@ import React from "react";
 function Landing(){
     return(
         <div className="landing-section">
-            <p className="intro"><span style={{margin: "0em 1em"}}>Introducing an era of new and exciting game development</span> • <a href="" style={{margin: "0em 1em", color: "#616161"}}>Read Mode →</a></p>
+            <p className="intro"><span style={{margin: "0em 1em"}}>Introducing an era of new and exciting game development</span> • <a href="" style={{margin: "0em 1em", color: "#616161", textDecoration: "none"}}>Read Mode →</a></p>
             <h2>Access the full power of <br></br>
             Python Game Development.</h2>
 

@@ -1,11 +1,11 @@
 import React from "react";
 
-function Question(props){
+function Question({question, answer}){
     return(
         <div className="faq-question">
-            <h3>{props.question}</h3>
+            <h3>{question}</h3>
             <div className="answer-collapse">
-                <p>{props.answer}</p>
+                <p>{answer}</p>
             </div>
         </div>
     );
