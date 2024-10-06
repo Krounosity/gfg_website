@@ -1,14 +1,18 @@
 [
     {"title":"Game Mechanics",
-     "content":"Master physics, collision detection, AI, and game loops."},
+     "content":"Master physics, collision detection, AI, and game loops.",
+     "image": "/images/features1.svg"},
 
     {"title":"Visual Effects",
-     "content":"Create 2D/3D graphics and animations."},
+     "content":"Create 2D/3D graphics and animations.",
+     "image": "/images/features2.svg"},
     
     {"title":"Game Balancing",
-     "content":"Balance difficulty and progression."},
+     "content":"Balance difficulty and progression.",
+     "image": "/images/features3.svg"},
     
     {"title":"Cross-Platform Dev",
-     "content":"Deploy games on PC, web, and mobile."}
+     "content":"Deploy games on PC, web, and mobile.",
+     "image": "/images/features4.svg"}
 
 ]

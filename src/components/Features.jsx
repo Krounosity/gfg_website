@@ -1,4 +1,5 @@
 import React from "react";
+import '../styles/features.sass';
 
 function Features({title, content, image}){
     return(

@@ -9,7 +9,7 @@ function Navbar(){
                 <a href="">Products</a>
                 <a href="">Resources</a>
                 <a href="">Developers</a>
-                <a href="" style={{backgroundColor: "black", color: "white"}}>Open App</a>
+                <a href="" style={{backgroundColor: "black", color: "white", borderRadius: "20px"}}>Open App</a>
             </nav>
         </div>
     );
